@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"col"
+			],
+			[
+				"col",
+				"col-5"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"aling",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"au",
+				"mr-auto"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"jus",
+				"justify"
+			],
+			[
+				"alin",
+				"text-align"
+			],
+			[
+				"img",
+				"image"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"b",
+				"border-image"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bor",
+				"border\tAttr"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"stat",
+				"static_file"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"share",
+				"shareholders"
+			],
+			[
+				"n",
+				"number_of_share"
+			],
+			[
+				"sha",
+				"shareholders"
+			],
+			[
+				"sh",
+				"shareholders"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "index.html"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/zul/developer/tesla/runner.py",
+		"/C/Users/zul/developer/tesla/static/css/style.css",
+		"/C/Users/zul/developer/tesla/models.html",
+		"/C/Users/zul/developer/web/index.html",
+		"/C/Users/zul/developer/tesla/home.html",
+		"/C/Users/zul/developer/tesla/l.",
+		"/C/Users/zul/developer/web/runner.py",
+		"/C/Users/zul/developer/web/ss.html",
+		"/C/Users/zul/developer/web/v.html",
+		"/C/Users/zul/developer/web/bs.html",
+		"/C/Users/zul/developer/web/static/css/style.css",
+		"/C/Users/zul/developer/web/W3.css",
+		"/C/Users/zul/developer/web/static/video/test.mp4",
+		"/C/Users/zul/l.",
+		"/C/Users/zul/developer/web/quickstart.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "c.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
